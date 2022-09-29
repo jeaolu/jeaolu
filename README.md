@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/69017992/192941850-1fa8cd08-a0ef-43ef-8392-ef67e2f61164.png)
+
+
+
 <h1 align="center">Hi 👋, I'm John Olugbemi</h1>
 <h3 align="center">An passionate software developer</h3>
 
