@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm John Olugbemi</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">I am a software developer, I have the skills necessary to create scalable, fault-tolerant mobile app with Flutter. To the best of my knowledge, I am capable of developing a fullproof solution for any system and putting it into use. Some of my previous work has involved utilizing REST APIs, SQL and NoSQL databases.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeaolu&label=Profile%20views&color=0e75b6&style=flat" alt="jeaolu" /> </p>
 
