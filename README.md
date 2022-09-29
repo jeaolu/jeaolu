@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm John Olugbemi</h1>
-<h3 align="center">An passionate software developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeaolu&label=Profile%20views&color=0e75b6&style=flat" alt="jeaolu" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Django,Machine Learning**
 
-- 👯 I’m looking to collaborate on **A mobile app**
+- 👯 I’m looking to collaborate on **A mobile app project**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1db-CFhmdMPe8-GfVwIexUlGBHqXo8V0s/view?usp=sharing](https://drive.google.com/file/d/1db-CFhmdMPe8-GfVwIexUlGBHqXo8V0s/view?usp=sharing)
 
